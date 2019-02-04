@@ -23,3 +23,6 @@ tradin_ig_config.py: contient vos infos de connexion. ATTENTION: c'est "config2"
 le dossier trading_ig contient tout les bibliotheque pour facilité l'utilisation des api IG 
 https://github.com/ig-python/ig-markets-api-python-library
 
+----------------
+Le raspi creer 3 fichier csv. histoire de pouvoir stocker qu'elle 'idée trading' a déja été passé dans la moulinette.
+Attention, pour le moment le script ne met pas les stops :) les limites oui.
