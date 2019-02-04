@@ -1,0 +1,1 @@
+0 * * * 1-5 sh /home/pi/idee_trading/launcher.sh >/home/pi/logs/cronlog_trading 2>&1
